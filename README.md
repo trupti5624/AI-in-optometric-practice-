@@ -5,7 +5,7 @@ This project explores the integration of Artificial Intelligence into optometric
 
 ---
 
-##🛠️ Technologies Used
+* Technologies Used
 
 - **Python** - Core programming language
 - **OpenCV** - For image processing and manipulation
