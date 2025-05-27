@@ -19,5 +19,5 @@ This project explores the integration of Artificial Intelligence into optometric
 
 ---
 
-## 📦 Project Structure
+
 
